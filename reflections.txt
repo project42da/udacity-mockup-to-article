@@ -7,3 +7,14 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+  * What new skills have you learned?
+		- It was nothing new to me. But, it was good review!. And I recommended to my friends. You are awesome! 
+  * What has been easy?
+		- HTML Syntax.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    - There was some tags i never use before. (like <sup>) So I searched in MDN. 
+
+
+
+
